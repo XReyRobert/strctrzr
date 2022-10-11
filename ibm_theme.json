@@ -1,0 +1,1878 @@
+{
+    "name": "IBM Cloud Platform",
+    "description": "",
+    "elements": [
+        {
+            "tag": "IBM AgroPad",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-agropad.svg"
+        },
+        {
+            "tag": "IBM Alert Notification",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-alert-notification.svg"
+        },
+        {
+            "tag": "IBM Augmented Remote Assist",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-augmented-remote-assist.svg"
+        },
+        {
+            "tag": "IBM Automation Platform",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-automation-platform.svg"
+        },
+        {
+            "tag": "Bee, generic",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/bee-generic.svg"
+        },
+        {
+            "tag": "IBM Food Trust™ Blockchain",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-food-trusttm-blockchain.svg"
+        },
+        {
+            "tag": "IBM CICS®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cics-r.svg"
+        },
+        {
+            "tag": "IBM CICS® TX on Cloud",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cics-r-tx-on-cloud.svg"
+        },
+        {
+            "tag": "IBM CRUISE",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cruise.svg"
+        },
+        {
+            "tag": "IBM Call Home Connect Anywhere",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-call-home-connect-anywhere.svg"
+        },
+        {
+            "tag": "Carbon Design System",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/carbon-design-system.svg"
+        },
+        {
+            "tag": "Carbon React Native",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/carbon-react-native.svg"
+        },
+        {
+            "tag": "IBM API Connect®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-api-connect-r.svg"
+        },
+        {
+            "tag": "IBM Cloud® API Gateway",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-api-gateway.svg"
+        },
+        {
+            "tag": "IBM Cloud® Activity Tracker",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-activity-tracker.svg"
+        },
+        {
+            "tag": "IBM App Connect Enterprise",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-app-connect-enterprise.svg"
+        },
+        {
+            "tag": "IBM Aspera®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-aspera-r.svg"
+        },
+        {
+            "tag": "IBM Cloud® autoscaling",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-autoscaling.svg"
+        },
+        {
+            "tag": "IBM Cloud® Backup Service for VPC",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-backup-service-for-vpc.svg"
+        },
+        {
+            "tag": "IBM Cloud® Bare Metal Server",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-bare-metal-server.svg"
+        },
+        {
+            "tag": "IBM Cloud® Block Storage for VPC",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-block-storage-for-vpc.svg"
+        },
+        {
+            "tag": "IBM Cloud® Citrix Virtual Apps and Desktops",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-citrix-virtual-apps-and-desktops.svg"
+        },
+        {
+            "tag": "IBM Cloud® Classic Infrastructure",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-classic-infrastructure.svg"
+        },
+        {
+            "tag": "IBM Cloud® Cluster Autoscaler add-on",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-cluster-autoscaler-add-on.svg"
+        },
+        {
+            "tag": "IBM Cloud® Code Engine",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-code-engine.svg"
+        },
+        {
+            "tag": "IBM Cloud® Containers",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-containers.svg"
+        },
+        {
+            "tag": "IBM Cloud® Content Delivery Network",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-content-delivery-network.svg"
+        },
+        {
+            "tag": "IBM Cloud® DNS services",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-dns-services.svg"
+        },
+        {
+            "tag": "IBM® DataOps",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-dataops.svg"
+        },
+        {
+            "tag": "IBM DataPower®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-datapower-r.svg"
+        },
+        {
+            "tag": "IBM Data Replication on Cloud",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-data-replication-on-cloud.svg"
+        },
+        {
+            "tag": "IBM® InfoSphere® DataStage® Edition",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-infosphere-r-datastage-r-edition.svg"
+        },
+        {
+            "tag": "IBM Cloud® Data Virtualization",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-data-virtualization.svg"
+        },
+        {
+            "tag": "IBM® Db2® Administration Foundation for z/OS®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-db2-r-administration-foundation-for-z-os-r.svg"
+        },
+        {
+            "tag": "IBM Cloud® Dedicated Host",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-dedicated-host.svg"
+        },
+        {
+            "tag": "IBM Cloud® Kubernetes Service Diagnostics and Debug Tool add-on",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-kubernetes-service-diagnostics-and-debug-tool-add-on.svg"
+        },
+        {
+            "tag": "IBM Cloud® Direct Link 2.0",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-direct-link-2-0.svg"
+        },
+        {
+            "tag": "IBM Edge Application Manager",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-edge-application-manager.svg"
+        },
+        {
+            "tag": "IBM Cloud® email delivery service",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-email-delivery-service.svg"
+        },
+        {
+            "tag": "IBM Cloud® Event Endpoint Management",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-event-endpoint-management.svg"
+        },
+        {
+            "tag": "IBM Cloud® Event Management",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-event-management.svg"
+        },
+        {
+            "tag": "IBM Event Streams",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-event-streams.svg"
+        },
+        {
+            "tag": "IBM® Cloud Foundry",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-cloud-foundry.svg"
+        },
+        {
+            "tag": "IBM Cloud® Functions",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-functions.svg"
+        },
+        {
+            "tag": "IBM Cloud® Gate Keeper",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-gate-keeper.svg"
+        },
+        {
+            "tag": "IBM Cloud® Gateway Appliances",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-gateway-appliances.svg"
+        },
+        {
+            "tag": "IBM Cloud® HPC Cluster",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-hpc-cluster.svg"
+        },
+        {
+            "tag": "IBM Cloud® HPCS Router Operator",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-hpcs-router-operator.svg"
+        },
+        {
+            "tag": "IBM Cloud® Hardware Firewall",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-hardware-firewall.svg"
+        },
+        {
+            "tag": "IBM Cloud® Hybrid Link",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-hybrid-link.svg"
+        },
+        {
+            "tag": "IBM Cloud® Hyper Protect Crypto Services",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-hyper-protect-crypto-services.svg"
+        },
+        {
+            "tag": "IBM Cloud® Hyper Protect DBaaS",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-hyper-protect-dbaas.svg"
+        },
+        {
+            "tag": "IBM Cloud® Hyper Protect Virtual Servers",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-hyper-protect-virtual-servers.svg"
+        },
+        {
+            "tag": "IBM Cloud® HyperSecure DBaaS Selector Tool",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-hypersecure-dbaas-selector-tool.svg"
+        },
+        {
+            "tag": "IBM Cloud® Image Key Synchronizer",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-image-key-synchronizer.svg"
+        },
+        {
+            "tag": "IBM® Cloud Infrastructure Center",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-cloud-infrastructure-center.svg"
+        },
+        {
+            "tag": "IBM Cloud® Internet Services",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-internet-services.svg"
+        },
+        {
+            "tag": "IBM Key Protect",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-key-protect.svg"
+        },
+        {
+            "tag": "IBM Cloud® Kubernetes Service",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-kubernetes-service.svg"
+        },
+        {
+            "tag": "IBM Cloud® Kubernetes Service with Hyper Protect",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-kubernetes-service-with-hyper-protect.svg"
+        },
+        {
+            "tag": "IBM Cloud® Kubernetes Terminal",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-kubernetes-terminal.svg"
+        },
+        {
+            "tag": "IBM Cloud® Load Balancer (Classic)",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-load-balancer-classic.svg"
+        },
+        {
+            "tag": "IBM Cloud® Load Balancer for VPC",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-load-balancer-for-vpc.svg"
+        },
+        {
+            "tag": "IBM Cloud® Log Analysis",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-log-analysis.svg"
+        },
+        {
+            "tag": "IBM MQ",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mq.svg"
+        },
+        {
+            "tag": "IBM Cloud® Managed OAuth Proxy add-on",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-managed-oauth-proxy-add-on.svg"
+        },
+        {
+            "tag": "IBM Cloud® Mass Data Migration",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-mass-data-migration.svg"
+        },
+        {
+            "tag": "IBM Cloud® Migration Services",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-migration-services.svg"
+        },
+        {
+            "tag": "IBM Cloud® Monitoring",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-monitoring.svg"
+        },
+        {
+            "tag": "IBM Cloud® Multicloud Key Orchestrator",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-multicloud-key-orchestrator.svg"
+        },
+        {
+            "tag": "IBM Cloud® Object Storage",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-object-storage.svg"
+        },
+        {
+            "tag": "IBM® OpenPages® with Watson® on Cloud",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-openpages-r-with-watson-r-on-cloud.svg"
+        },
+        {
+            "tag": "Red Hat® OpenShift® on IBM Cloud® - Container Storage",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/red-hat-r-openshift-r-on-ibm-cloud-r-container-storage.svg"
+        },
+        {
+            "tag": "IBM Cloud Pak® for Applications",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-pak-r-for-applications.svg"
+        },
+        {
+            "tag": "IBM Cloud Pak® for Data",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-pak-r-for-data.svg"
+        },
+        {
+            "tag": "IBM Cloud Pak® for Integration",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-pak-r-for-integration.svg"
+        },
+        {
+            "tag": "IBM Cloud Pak® for Multicloud Management",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-pak-r-for-multicloud-management.svg"
+        },
+        {
+            "tag": "IBM Cloud Pak® for Network Automation",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-pak-r-for-network-automation.svg"
+        },
+        {
+            "tag": "IBM Cloud Pak® for Security",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-pak-r-for-security.svg"
+        },
+        {
+            "tag": "IBM Cloud Pak® System",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-pak-r-system.svg"
+        },
+        {
+            "tag": "IBM Cloud Pak® for Watson AIOps",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-pak-r-for-watson-aiops.svg"
+        },
+        {
+            "tag": "IBM Cloud® Private",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-private.svg"
+        },
+        {
+            "tag": "IBM Cloud® Professional Services for Government",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-professional-services-for-government.svg"
+        },
+        {
+            "tag": "IBM Quantum Services",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-quantum-services.svg"
+        },
+        {
+            "tag": "IBM Cloud® Container Registry",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-container-registry.svg"
+        },
+        {
+            "tag": "Regulatory Accelerator on IBM Cloud Pak® for Data",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/regulatory-accelerator-on-ibm-cloud-pak-r-for-data.svg"
+        },
+        {
+            "tag": "IBM Cloud® Satellite",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-satellite.svg"
+        },
+        {
+            "tag": "IBM Cloud® Schematics",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-schematics.svg"
+        },
+        {
+            "tag": "IBM Cloud® Security Groups",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-security-groups.svg"
+        },
+        {
+            "tag": "IBM Cloud® Static Route",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-static-route.svg"
+        },
+        {
+            "tag": "IBM Cloud® subnets",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-subnets.svg"
+        },
+        {
+            "tag": "IBM InfoSphere® Optim Test Data Management and Data Privacy",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-infosphere-r-optim-test-data-management-and-data-privacy.svg"
+        },
+        {
+            "tag": "IBM Cloud® Transit Gateway",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-transit-gateway.svg"
+        },
+        {
+            "tag": "IBM Cloud® VLAN",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-vlan.svg"
+        },
+        {
+            "tag": "IBM Cloud® VPC",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-vpc.svg"
+        },
+        {
+            "tag": "IBM Cloud® Bare Metal Servers for VPC",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-bare-metal-servers-for-vpc.svg"
+        },
+        {
+            "tag": "IBM Cloud® Block Storage Snapshots for VPC",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-block-storage-snapshots-for-vpc.svg"
+        },
+        {
+            "tag": "IIBM Cloud® Virtual Private Cloud (VPC) endpoints",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/iibm-cloud-r-virtual-private-cloud-vpc-endpoints.svg"
+        },
+        {
+            "tag": "IBM Cloud® Flow Logs for VPC",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-flow-logs-for-vpc.svg"
+        },
+        {
+            "tag": "IBM Cloud® Virtual Server for VPC",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-virtual-server-for-vpc.svg"
+        },
+        {
+            "tag": "IBM e-config on Cloud",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-e-config-on-cloud.svg"
+        },
+        {
+            "tag": "IBM Cognos® Analytics",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cognos-r-analytics.svg"
+        },
+        {
+            "tag": "IBM Cognos® Analytics Reporting",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cognos-r-analytics-reporting.svg"
+        },
+        {
+            "tag": "IBM Community Health Coach",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-community-health-coach.svg"
+        },
+        {
+            "tag": "IBM Community Health Member",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-community-health-member.svg"
+        },
+        {
+            "tag": "IBM Control Desk",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-control-desk.svg"
+        },
+        {
+            "tag": "IBM Db2® Big SQL",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-db2-r-big-sql.svg"
+        },
+        {
+            "tag": "IBM DCConnect Client",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-dcconnect-client.svg"
+        },
+        {
+            "tag": "IBM Data Privacy Passports",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-data-privacy-passports.svg"
+        },
+        {
+            "tag": "IBM Db2® for z/OS® Data Gate",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-db2-r-for-z-os-r-data-gate.svg"
+        },
+        {
+            "tag": "IBM DevOps Analyze",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-analyze.svg"
+        },
+        {
+            "tag": "IBM DevOps Build",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-build.svg"
+        },
+        {
+            "tag": "IBM DevOps CI/CD Pipeline",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-ci-cd-pipeline.svg"
+        },
+        {
+            "tag": "IBM DevOps Code",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-code.svg"
+        },
+        {
+            "tag": "IBM Db2® ZDevTools extension",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-db2-r-zdevtools-extension.svg"
+        },
+        {
+            "tag": "IBM DevOps Debug",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-debug.svg"
+        },
+        {
+            "tag": "IBM DevOps Deploy",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-deploy.svg"
+        },
+        {
+            "tag": "IBM DevOps Developer for z/OS®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-developer-for-z-os-r.svg"
+        },
+        {
+            "tag": "IBM DevOps Monitor",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-monitor.svg"
+        },
+        {
+            "tag": "IBM DevOps Plan",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-plan.svg"
+        },
+        {
+            "tag": "IBM DevOps Provision",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-provision.svg"
+        },
+        {
+            "tag": "IBM DevOps Release",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-release.svg"
+        },
+        {
+            "tag": "IBM DevOps Test",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-devops-test.svg"
+        },
+        {
+            "tag": "IBM Wazi Analyze",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-wazi-analyze.svg"
+        },
+        {
+            "tag": "IBM Developer",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-developer.svg"
+        },
+        {
+            "tag": "IBM Digital Assistant",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-digital-assistant.svg"
+        },
+        {
+            "tag": "IBM Digital–Nation Africa",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-digital-nation-africa.svg"
+        },
+        {
+            "tag": "IBM Digital Services Platform for Financial Services",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-digital-services-platform-for-financial-services.svg"
+        },
+        {
+            "tag": "IBM Download Director",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-download-director.svg"
+        },
+        {
+            "tag": "IBM Entitled Systems Support",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-entitled-systems-support.svg"
+        },
+        {
+            "tag": "IBM Cloud® Event Notifications",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-cloud-r-event-notifications.svg"
+        },
+        {
+            "tag": "IBM Expert Seller with Box Platform",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-expert-seller-with-box-platform.svg"
+        },
+        {
+            "tag": "IBM Exposure Notification for Enterprise",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-exposure-notification-for-enterprise.svg"
+        },
+        {
+            "tag": "Eye, generic",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/eye-generic.svg"
+        },
+        {
+            "tag": "IBM GS Risk",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-gs-risk.svg"
+        },
+        {
+            "tag": "IBM Global Financing Concierge",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-global-financing-concierge.svg"
+        },
+        {
+            "tag": "IBM Health Pass Issuer",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-health-pass-issuer.svg"
+        },
+        {
+            "tag": "IBM Health Pass Verifier",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-health-pass-verifier.svg"
+        },
+        {
+            "tag": "IBM Health Pass Wallet",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-health-pass-wallet.svg"
+        },
+        {
+            "tag": "IBM Inspection Workbench",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-inspection-workbench.svg"
+        },
+        {
+            "tag": "IBM Inspector Portable",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-inspector-portable.svg"
+        },
+        {
+            "tag": "IBM Instant Checkout",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-instant-checkout.svg"
+        },
+        {
+            "tag": "IoT administration",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/iot-administration.svg"
+        },
+        {
+            "tag": "IoT asset",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/iot-asset.svg"
+        },
+        {
+            "tag": "IoT business analytics",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/iot-business-analytics.svg"
+        },
+        {
+            "tag": "IBM Watson IoT® Platform Connection Service",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-iot-r-platform-connection-service.svg"
+        },
+        {
+            "tag": "IBM Watson IoT® Platform",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-iot-r-platform.svg"
+        },
+        {
+            "tag": "IBM Open Data Analytics for z/OS® (IzODA)",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-open-data-analytics-for-z-os-r-izoda.svg"
+        },
+        {
+            "tag": "LILOX",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/lilox.svg"
+        },
+        {
+            "tag": "IBM Launchpad",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-launchpad.svg"
+        },
+        {
+            "tag": "IBM Live | IBM Events",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-live-ibm-events.svg"
+        },
+        {
+            "tag": "IBM Location Tracker",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-location-tracker.svg"
+        },
+        {
+            "tag": "IBM M&A Accelerator | IBM Program Work Center",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-m-a-accelerator-ibm-program-work-center.svg"
+        },
+        {
+            "tag": "IBM Master Data Management Express",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-master-data-management-express.svg"
+        },
+        {
+            "tag": "IBM® MaaS360® Admin",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-maas360-r-admin.svg"
+        },
+        {
+            "tag": "IBM Master Data Connect",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-master-data-connect.svg"
+        },
+        {
+            "tag": "IBM Master Data Management",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-master-data-management.svg"
+        },
+        {
+            "tag": "IBM Maximo® Asset Audit",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-asset-audit.svg"
+        },
+        {
+            "tag": "IBM Maximo® Asset Data Manager",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-asset-data-manager.svg"
+        },
+        {
+            "tag": "IBM Maximo® Cycle Counts",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-cycle-counts.svg"
+        },
+        {
+            "tag": "IBM Maximo® Inspector",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-inspector.svg"
+        },
+        {
+            "tag": "IBM Maximo® Issues and Returns",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-issues-and-returns.svg"
+        },
+        {
+            "tag": "IBM® Maximo® Mobile",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-maximo-r-mobile.svg"
+        },
+        {
+            "tag": "IBM Maximo® Service Requestor",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-service-requestor.svg"
+        },
+        {
+            "tag": "IBM Maximo® Supervisor",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-supervisor.svg"
+        },
+        {
+            "tag": "IBM Maximo® Technician",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-technician.svg"
+        },
+        {
+            "tag": "IBM Maximo® Transfers Receipts",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-transfers-receipts.svg"
+        },
+        {
+            "tag": "IBM® Maximo® Visual Inspection",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-maximo-r-visual-inspection.svg"
+        },
+        {
+            "tag": "IBM Maximo® Voice Assistant",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-voice-assistant.svg"
+        },
+        {
+            "tag": "IBM Maximo® Worker Insights",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-maximo-r-worker-insights.svg"
+        },
+        {
+            "tag": "IBM Mobile Capture",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobile-capture.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Aircraft 360",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-aircraft-360.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Ancillary Sales",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-ancillary-sales.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Assign Tech",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-assign-tech.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Cabin Care",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-cabin-care.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Digital Gate",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-digital-gate.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Fly Now",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-fly-now.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Inspect and Turn",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-inspect-and-turn.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Manage Gates",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-manage-gates.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Passenger Care",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-passenger-care.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Passenger +",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-passenger.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Plan Flight",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-plan-flight.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Rapid Board",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-rapid-board.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Roster",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-roster.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Today’s Train",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-todays-train.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS IBM Train Tickets",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-ibm-train-tickets.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS IBM Traveler Care",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-ibm-traveler-care.svg"
+        },
+        {
+            "tag": "IBM MobileFirst® for iOS Turn Manager",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-mobilefirst-r-for-ios-turn-manager.svg"
+        },
+        {
+            "tag": "IBM My Clinical Diary Mobile",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-my-clinical-diary-mobile.svg"
+        },
+        {
+            "tag": "IBM® Netezza® Performance Server",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-netezza-r-performance-server.svg"
+        },
+        {
+            "tag": "IBM Notifier",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-notifier.svg"
+        },
+        {
+            "tag": "OneView Mobile",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/oneview-mobile.svg"
+        },
+        {
+            "tag": "Open DSP",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/open-dsp.svg"
+        },
+        {
+            "tag": "IBM® Partner Ecosystem Hub",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-partner-ecosystem-hub.svg"
+        },
+        {
+            "tag": "IBM Planning Analytics",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-planning-analytics.svg"
+        },
+        {
+            "tag": "IBM POWER® Quick Reference",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-power-r-quick-reference.svg"
+        },
+        {
+            "tag": "IBM® Power® Systems Virtual Server Integration",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-power-r-systems-virtual-server-integration.svg"
+        },
+        {
+            "tag": "IBM Quantum Composer",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-quantum-composer.svg"
+        },
+        {
+            "tag": "IBM Quantum Lab",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-quantum-lab.svg"
+        },
+        {
+            "tag": "IBM® RPA",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-rpa.svg"
+        },
+        {
+            "tag": "IBM® RPA Control Center",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-rpa-control-center.svg"
+        },
+        {
+            "tag": "IBM® RPA Launcher",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-rpa-launcher.svg"
+        },
+        {
+            "tag": "IBM® RPA Studio",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-rpa-studio.svg"
+        },
+        {
+            "tag": "IBM® RPA Vault",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-rpa-vault.svg"
+        },
+        {
+            "tag": "IBM Rapid Financing®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-rapid-financing-r.svg"
+        },
+        {
+            "tag": "IBM Rational® Developer for i",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-rational-r-developer-for-i.svg"
+        },
+        {
+            "tag": "IBM Release Builder Kit (RBK)",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-release-builder-kit-rbk.svg"
+        },
+        {
+            "tag": "IBM SPSS® Modeler Subscription",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spss-r-modeler-subscription.svg"
+        },
+        {
+            "tag": "IBM Safer Payments",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-safer-payments.svg"
+        },
+        {
+            "tag": "Unassigned Security",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/unassigned-security.svg"
+        },
+        {
+            "tag": "IBM Security™ Access Request",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-securitytm-access-request.svg"
+        },
+        {
+            "tag": "IBM Security™ cases",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-securitytm-cases.svg"
+        },
+        {
+            "tag": "IBM Security™ Data Explorer",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-securitytm-data-explorer.svg"
+        },
+        {
+            "tag": "IBM Security™ QRadar® Analyst Workflow",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-securitytm-qradar-r-analyst-workflow.svg"
+        },
+        {
+            "tag": "IBM® QRadar® Use Case Manager",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-qradar-r-use-case-manager.svg"
+        },
+        {
+            "tag": "IBM® QRadar® User Behavior Analytics",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-qradar-r-user-behavior-analytics.svg"
+        },
+        {
+            "tag": "IBM Security™ Services",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-securitytm-services.svg"
+        },
+        {
+            "tag": "IBM Threat Intelligence Insights",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-threat-intelligence-insights.svg"
+        },
+        {
+            "tag": "IBM Security™ Verify",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-securitytm-verify.svg"
+        },
+        {
+            "tag": "IBM Research® Self Guidance Tool",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-research-r-self-guidance-tool.svg"
+        },
+        {
+            "tag": "IBM Site Access",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-site-access.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Archive",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-archive.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Computing",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-computing.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Computing Suite for High Performance Analytics",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-computing-suite-for-high-performance-analytics.svg"
+        },
+        {
+            "tag": "IBM Spectrum Conductor®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-conductor-r.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Control",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-control.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Copy Data Management",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-copy-data-management.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Discover",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-discover.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Fusion",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-fusion.svg"
+        },
+        {
+            "tag": "IBM Spectrum® LSF",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-lsf.svg"
+        },
+        {
+            "tag": "IBM Spectrum® MPI",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-mpi.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Protect",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-protect.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Protect Plus",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-protect-plus.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Protect Tools for Administrators",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-protect-tools-for-administrators.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Scale",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-scale.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Storage",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-storage.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Storage Insights",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-storage-insights.svg"
+        },
+        {
+            "tag": "IBM Spectrum Symphony®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-symphony-r.svg"
+        },
+        {
+            "tag": "IBM Spectrum® Virtualize",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-spectrum-r-virtualize.svg"
+        },
+        {
+            "tag": "IBM Stakeholder Collaborator",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-stakeholder-collaborator.svg"
+        },
+        {
+            "tag": "IBM Stakeholder Manager",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-stakeholder-manager.svg"
+        },
+        {
+            "tag": "IBM Sterling™ Store Engagement",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-sterlingtm-store-engagement.svg"
+        },
+        {
+            "tag": "IBM Sterling™ Supply Chain",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-sterlingtm-supply-chain.svg"
+        },
+        {
+            "tag": "IBM Study Advance",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-study-advance.svg"
+        },
+        {
+            "tag": "IBM Support Search with Watson®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-support-search-with-watson-r.svg"
+        },
+        {
+            "tag": "TLConnect",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/tlconnect.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Assistant",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-assistant.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Configure",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-configure.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Facility Condition",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-facility-condition.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Facility Sustainability",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-facility-sustainability.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Indoor Maps",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-indoor-maps.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Insights",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-insights.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Lease Accounting",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-lease-accounting.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Lease Administration",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-lease-administration.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Maintenance",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-maintenance.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Metrics",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-metrics.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Projects",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-projects.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Projects Hub",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-projects-hub.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Reporting",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-reporting.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Reserve",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-reserve.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Services",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-services.svg"
+        },
+        {
+            "tag": "IBM® TRIRIGA® Transactions",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-tririga-r-transactions.svg"
+        },
+        {
+            "tag": "IBM Task Mining Agent",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-task-mining-agent.svg"
+        },
+        {
+            "tag": "IBM Systems TechU agenda",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-systems-techu-agenda.svg"
+        },
+        {
+            "tag": "IBM TouchToken",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-touchtoken.svg"
+        },
+        {
+            "tag": "IBM New Visual Horizon",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-new-visual-horizon.svg"
+        },
+        {
+            "tag": "IBM World Community Grid",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-world-community-grid.svg"
+        },
+        {
+            "tag": "IBM Watson® AI Ops",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-ai-ops.svg"
+        },
+        {
+            "tag": "IBM Watson® Recruitment Adverse Impact Analysis",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-recruitment-adverse-impact-analysis.svg"
+        },
+        {
+            "tag": "IBM Watson® Assistant",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-assistant.svg"
+        },
+        {
+            "tag": "IBM Watson® BrassRing®",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-brassring-r.svg"
+        },
+        {
+            "tag": "IBM Watson® Candidate Assistant",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-candidate-assistant.svg"
+        },
+        {
+            "tag": "IBM Watson® Career Coach",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-career-coach.svg"
+        },
+        {
+            "tag": "IBM Watson® Compare and Comply",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-compare-and-comply.svg"
+        },
+        {
+            "tag": "IBM Db2® Data Management Console",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-db2-r-data-management-console.svg"
+        },
+        {
+            "tag": "IBM Watson® Discovery",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-discovery.svg"
+        },
+        {
+            "tag": "IBM Watson® Knowledge Catalog",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-knowledge-catalog.svg"
+        },
+        {
+            "tag": "IBM Watson® Knowledge Studio",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-knowledge-studio.svg"
+        },
+        {
+            "tag": "IBM Watson® Language Translator",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-language-translator.svg"
+        },
+        {
+            "tag": "IBM Kenexa® Lead Manager",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-kenexa-r-lead-manager.svg"
+        },
+        {
+            "tag": "IBM Watson® Machine Learning",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-machine-learning.svg"
+        },
+        {
+            "tag": "IBM Watson® Natural Language Classifier Service",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-natural-language-classifier-service.svg"
+        },
+        {
+            "tag": "IBM Watson® Natural Language Understanding Service",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-natural-language-understanding-service.svg"
+        },
+        {
+            "tag": "IBM Kenexa® Onboard",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-kenexa-r-onboard.svg"
+        },
+        {
+            "tag": "IBM Watson® OpenScale™",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-openscaletm.svg"
+        },
+        {
+            "tag": "IBM Watson® Personality Insights",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-personality-insights.svg"
+        },
+        {
+            "tag": "IBM Watson® Recruitment",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-recruitment.svg"
+        },
+        {
+            "tag": "IBM Return-to-Workplace Advisor",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-return-to-workplace-advisor.svg"
+        },
+        {
+            "tag": "IBM Watson® Speech to Text",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-speech-to-text.svg"
+        },
+        {
+            "tag": "IBM Watson® Studio",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-studio.svg"
+        },
+        {
+            "tag": "IBM Watson® Talent",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-talent.svg"
+        },
+        {
+            "tag": "IBM Watson® Recruitment API",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-recruitment-api.svg"
+        },
+        {
+            "tag": "IBM Watson® Talent Assessment",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-talent-assessment.svg"
+        },
+        {
+            "tag": "IBM Watson® Talent Frameworks",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-talent-frameworks.svg"
+        },
+        {
+            "tag": "IBM Watson® Talent Match API",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-talent-match-api.svg"
+        },
+        {
+            "tag": "IBM Watson® Talent Suite",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-talent-suite.svg"
+        },
+        {
+            "tag": "IBM Watson® Text to Speech",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-text-to-speech.svg"
+        },
+        {
+            "tag": "IBM Watson® Tone Analyzer Service",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-tone-analyzer-service.svg"
+        },
+        {
+            "tag": "IBM Watson® Visual Recognition",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-visual-recognition.svg"
+        },
+        {
+            "tag": "IBM Watson® Workbench",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-watson-r-workbench.svg"
+        },
+        {
+            "tag": "Weather Company Max Cloud Prism Pro",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/weather-company-max-cloud-prism-pro.svg"
+        },
+        {
+            "tag": "IBM Your Learning Boost",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-your-learning-boost.svg"
+        },
+        {
+            "tag": "IBM YourProcure",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-yourprocure.svg"
+        },
+        {
+            "tag": "IBM Digital Core",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-digital-core.svg"
+        },
+        {
+            "tag": "IBM HMC Mobile",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-hmc-mobile.svg"
+        },
+        {
+            "tag": "IBM ePass mobile",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-epass-mobile.svg"
+        },
+        {
+            "tag": "IBM ePricer BP",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-epricer-bp.svg"
+        },
+        {
+            "tag": "IBM® z/OSMF CFRM Policy Editor",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-z-osmf-cfrm-policy-editor.svg"
+        },
+        {
+            "tag": "IBM® z/OSMF Software Update",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-z-osmf-software-update.svg"
+        },
+        {
+            "tag": "IBM® z/OS® Management Services Catalog",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/ibm-r-z-os-r-management-services-catalog.svg"
+        },
+        {
+            "tag": "Unassigned0",
+            "stroke": "#4285f4",
+            "color": "#4285f4",
+            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg/unassigned_0.svg"
+        }
+    ]
+}
