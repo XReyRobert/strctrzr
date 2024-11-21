@@ -6,3037 +6,3039 @@
             "tag": "IBM AgroPad",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-agropad.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-agropad.png"
         },
         {
             "tag": "IBM Alert Notification",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-alert-notification.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-alert-notification.png"
         },
         {
             "tag": "IBM Augmented Remote Assist",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-augmented-remote-assist.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-augmented-remote-assist.png"
         },
         {
             "tag": "IBM Automation Platform",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-automation-platform.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-automation-platform.png"
         },
         {
             "tag": "Bee, generic",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/bee-generic.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/bee-generic.png"
         },
         {
+
+          https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-agropad.png
             "tag": "IBM Food Trust\u2122 Blockchain",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-food-trusttm-blockchain.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-food-trusttm-blockchain.png"
         },
         {
             "tag": "IBM CICS\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cics-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cics-r.png"
         },
         {
             "tag": "IBM CICS\u00ae TX on Cloud",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cics-r-tx-on-cloud.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cics-r-tx-on-cloud.png"
         },
         {
             "tag": "IBM CRUISE",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cruise.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cruise.png"
         },
         {
             "tag": "IBM Call Home Connect Anywhere",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-call-home-connect-anywhere.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-call-home-connect-anywhere.png"
         },
         {
             "tag": "Carbon Design System",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/carbon-design-system.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/carbon-design-system.png"
         },
         {
             "tag": "Carbon React Native",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/carbon-react-native.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/carbon-react-native.png"
         },
         {
             "tag": "IBM API Connect\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-api-connect-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-api-connect-r.png"
         },
         {
             "tag": "IBM Cloud\u00ae API Gateway",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-api-gateway.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-api-gateway.png"
         },
         {
             "tag": "IBM Cloud\u00ae Activity Tracker",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-activity-tracker.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-activity-tracker.png"
         },
         {
             "tag": "IBM App Connect Enterprise",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-app-connect-enterprise.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-app-connect-enterprise.png"
         },
         {
             "tag": "IBM Aspera\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-aspera-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-aspera-r.png"
         },
         {
             "tag": "IBM Cloud\u00ae autoscaling",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-autoscaling.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-autoscaling.png"
         },
         {
             "tag": "IBM Cloud\u00ae Backup Service for VPC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-backup-service-for-vpc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-backup-service-for-vpc.png"
         },
         {
             "tag": "IBM Cloud\u00ae Bare Metal Server",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-bare-metal-server.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-bare-metal-server.png"
         },
         {
             "tag": "IBM Cloud\u00ae Block Storage for VPC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-block-storage-for-vpc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-block-storage-for-vpc.png"
         },
         {
             "tag": "IBM Cloud\u00ae Citrix Virtual Apps and Desktops",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-citrix-virtual-apps-and-desktops.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-citrix-virtual-apps-and-desktops.png"
         },
         {
             "tag": "IBM Cloud\u00ae Classic Infrastructure",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-classic-infrastructure.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-classic-infrastructure.png"
         },
         {
             "tag": "IBM Cloud\u00ae Cluster Autoscaler add-on",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-cluster-autoscaler-add-on.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-cluster-autoscaler-add-on.png"
         },
         {
             "tag": "IBM Cloud\u00ae Code Engine",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-code-engine.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-code-engine.png"
         },
         {
             "tag": "IBM Cloud\u00ae Containers",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-containers.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-containers.png"
         },
         {
             "tag": "IBM Cloud\u00ae Content Delivery Network",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-content-delivery-network.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-content-delivery-network.png"
         },
         {
             "tag": "IBM Cloud\u00ae DNS services",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-dns-services.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-dns-services.png"
         },
         {
             "tag": "IBM\u00ae DataOps",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-dataops.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-dataops.png"
         },
         {
             "tag": "IBM DataPower\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-datapower-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-datapower-r.png"
         },
         {
             "tag": "IBM Data Replication on Cloud",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-data-replication-on-cloud.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-data-replication-on-cloud.png"
         },
         {
             "tag": "IBM\u00ae InfoSphere\u00ae DataStage\u00ae Edition",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-infosphere-r-datastage-r-edition.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-infosphere-r-datastage-r-edition.png"
         },
         {
             "tag": "IBM Cloud\u00ae Data Virtualization",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-data-virtualization.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-data-virtualization.png"
         },
         {
             "tag": "IBM\u00ae Db2\u00ae Administration Foundation for z/OS\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-db2-r-administration-foundation-for-z-os-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-db2-r-administration-foundation-for-z-os-r.png"
         },
         {
             "tag": "IBM Cloud\u00ae Dedicated Host",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-dedicated-host.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-dedicated-host.png"
         },
         {
             "tag": "IBM Cloud\u00ae Kubernetes Service Diagnostics and Debug Tool add-on",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-kubernetes-service-diagnostics-and-debug-tool-add-on.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-kubernetes-service-diagnostics-and-debug-tool-add-on.png"
         },
         {
             "tag": "IBM Cloud\u00ae Direct Link 2.0",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-direct-link-2-0.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-direct-link-2-0.png"
         },
         {
             "tag": "IBM Edge Application Manager",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-edge-application-manager.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-edge-application-manager.png"
         },
         {
             "tag": "IBM Cloud\u00ae email delivery service",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-email-delivery-service.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-email-delivery-service.png"
         },
         {
             "tag": "IBM Cloud\u00ae Event Endpoint Management",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-event-endpoint-management.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-event-endpoint-management.png"
         },
         {
             "tag": "IBM Cloud\u00ae Event Management",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-event-management.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-event-management.png"
         },
         {
             "tag": "IBM Event Streams",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-event-streams.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-event-streams.png"
         },
         {
             "tag": "IBM\u00ae Cloud Foundry",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-cloud-foundry.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-cloud-foundry.png"
         },
         {
             "tag": "IBM Cloud\u00ae Functions",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-functions.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-functions.png"
         },
         {
             "tag": "IBM Cloud\u00ae Gate Keeper",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-gate-keeper.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-gate-keeper.png"
         },
         {
             "tag": "IBM Cloud\u00ae Gateway Appliances",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-gateway-appliances.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-gateway-appliances.png"
         },
         {
             "tag": "IBM Cloud\u00ae HPC Cluster",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-hpc-cluster.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-hpc-cluster.png"
         },
         {
             "tag": "IBM Cloud\u00ae HPCS Router Operator",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-hpcs-router-operator.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-hpcs-router-operator.png"
         },
         {
             "tag": "IBM Cloud\u00ae Hardware Firewall",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-hardware-firewall.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-hardware-firewall.png"
         },
         {
             "tag": "IBM Cloud\u00ae Hybrid Link",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-hybrid-link.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-hybrid-link.png"
         },
         {
             "tag": "IBM Cloud\u00ae Hyper Protect Crypto Services",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-hyper-protect-crypto-services.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-hyper-protect-crypto-services.png"
         },
         {
             "tag": "IBM Cloud\u00ae Hyper Protect DBaaS",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-hyper-protect-dbaas.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-hyper-protect-dbaas.png"
         },
         {
             "tag": "IBM Cloud\u00ae Hyper Protect Virtual Servers",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-hyper-protect-virtual-servers.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-hyper-protect-virtual-servers.png"
         },
         {
             "tag": "IBM Cloud\u00ae HyperSecure DBaaS Selector Tool",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-hypersecure-dbaas-selector-tool.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-hypersecure-dbaas-selector-tool.png"
         },
         {
             "tag": "IBM Cloud\u00ae Image Key Synchronizer",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-image-key-synchronizer.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-image-key-synchronizer.png"
         },
         {
             "tag": "IBM\u00ae Cloud Infrastructure Center",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-cloud-infrastructure-center.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-cloud-infrastructure-center.png"
         },
         {
             "tag": "IBM Cloud\u00ae Internet Services",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-internet-services.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-internet-services.png"
         },
         {
             "tag": "IBM Key Protect",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-key-protect.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-key-protect.png"
         },
         {
             "tag": "IBM Cloud\u00ae Kubernetes Service",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-kubernetes-service.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-kubernetes-service.png"
         },
         {
             "tag": "IBM Cloud\u00ae Kubernetes Service with Hyper Protect",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-kubernetes-service-with-hyper-protect.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-kubernetes-service-with-hyper-protect.png"
         },
         {
             "tag": "IBM Cloud\u00ae Kubernetes Terminal",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-kubernetes-terminal.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-kubernetes-terminal.png"
         },
         {
             "tag": "IBM Cloud\u00ae Load Balancer (Classic)",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-load-balancer-classic.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-load-balancer-classic.png"
         },
         {
             "tag": "IBM Cloud\u00ae Load Balancer for VPC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-load-balancer-for-vpc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-load-balancer-for-vpc.png"
         },
         {
             "tag": "IBM Cloud\u00ae Log Analysis",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-log-analysis.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-log-analysis.png"
         },
         {
             "tag": "IBM MQ",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mq.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mq.png"
         },
         {
             "tag": "IBM Cloud\u00ae Managed OAuth Proxy add-on",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-managed-oauth-proxy-add-on.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-managed-oauth-proxy-add-on.png"
         },
         {
             "tag": "IBM Cloud\u00ae Mass Data Migration",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-mass-data-migration.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-mass-data-migration.png"
         },
         {
             "tag": "IBM Cloud\u00ae Migration Services",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-migration-services.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-migration-services.png"
         },
         {
             "tag": "IBM Cloud\u00ae Monitoring",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-monitoring.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-monitoring.png"
         },
         {
             "tag": "IBM Cloud\u00ae Multicloud Key Orchestrator",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-multicloud-key-orchestrator.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-multicloud-key-orchestrator.png"
         },
         {
             "tag": "IBM Cloud\u00ae Object Storage",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-object-storage.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-object-storage.png"
         },
         {
             "tag": "IBM\u00ae OpenPages\u00ae with Watson\u00ae on Cloud",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-openpages-r-with-watson-r-on-cloud.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-openpages-r-with-watson-r-on-cloud.png"
         },
         {
             "tag": "Red Hat\u00ae OpenShift\u00ae on IBM Cloud\u00ae - Container Storage",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/red-hat-r-openshift-r-on-ibm-cloud-r-container-storage.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/red-hat-r-openshift-r-on-ibm-cloud-r-container-storage.png"
         },
         {
             "tag": "IBM Cloud Pak\u00ae for Applications",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-pak-r-for-applications.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-pak-r-for-applications.png"
         },
         {
             "tag": "IBM Cloud Pak\u00ae for Data",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-pak-r-for-data.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-pak-r-for-data.png"
         },
         {
             "tag": "IBM Cloud Pak\u00ae for Integration",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-pak-r-for-integration.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-pak-r-for-integration.png"
         },
         {
             "tag": "IBM Cloud Pak\u00ae for Multicloud Management",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-pak-r-for-multicloud-management.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-pak-r-for-multicloud-management.png"
         },
         {
             "tag": "IBM Cloud Pak\u00ae for Network Automation",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-pak-r-for-network-automation.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-pak-r-for-network-automation.png"
         },
         {
             "tag": "IBM Cloud Pak\u00ae for Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-pak-r-for-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-pak-r-for-security.png"
         },
         {
             "tag": "IBM Cloud Pak\u00ae System",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-pak-r-system.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-pak-r-system.png"
         },
         {
             "tag": "IBM Cloud Pak\u00ae for Watson AIOps",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-pak-r-for-watson-aiops.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-pak-r-for-watson-aiops.png"
         },
         {
             "tag": "IBM Cloud\u00ae Private",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-private.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-private.png"
         },
         {
             "tag": "IBM Cloud\u00ae Professional Services for Government",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-professional-services-for-government.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-professional-services-for-government.png"
         },
         {
             "tag": "IBM Quantum Services",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-quantum-services.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-quantum-services.png"
         },
         {
             "tag": "IBM Cloud\u00ae Container Registry",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-container-registry.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-container-registry.png"
         },
         {
             "tag": "Regulatory Accelerator on IBM Cloud Pak\u00ae for Data",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/regulatory-accelerator-on-ibm-cloud-pak-r-for-data.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/regulatory-accelerator-on-ibm-cloud-pak-r-for-data.png"
         },
         {
             "tag": "IBM Cloud\u00ae Satellite",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-satellite.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-satellite.png"
         },
         {
             "tag": "IBM Cloud\u00ae Schematics",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-schematics.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-schematics.png"
         },
         {
             "tag": "IBM Cloud\u00ae Security Groups",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-security-groups.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-security-groups.png"
         },
         {
             "tag": "IBM Cloud\u00ae Static Route",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-static-route.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-static-route.png"
         },
         {
             "tag": "IBM Cloud\u00ae subnets",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-subnets.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-subnets.png"
         },
         {
             "tag": "IBM InfoSphere\u00ae Optim Test Data Management and Data Privacy",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-infosphere-r-optim-test-data-management-and-data-privacy.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-infosphere-r-optim-test-data-management-and-data-privacy.png"
         },
         {
             "tag": "IBM Cloud\u00ae Transit Gateway",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-transit-gateway.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-transit-gateway.png"
         },
         {
             "tag": "IBM Cloud\u00ae VLAN",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-vlan.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-vlan.png"
         },
         {
             "tag": "IBM Cloud\u00ae VPC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-vpc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-vpc.png"
         },
         {
             "tag": "IBM Cloud\u00ae Bare Metal Servers for VPC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-bare-metal-servers-for-vpc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-bare-metal-servers-for-vpc.png"
         },
         {
             "tag": "IBM Cloud\u00ae Block Storage Snapshots for VPC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-block-storage-snapshots-for-vpc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-block-storage-snapshots-for-vpc.png"
         },
         {
             "tag": "IIBM Cloud\u00ae Virtual Private Cloud (VPC) endpoints",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/iibm-cloud-r-virtual-private-cloud-vpc-endpoints.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/iibm-cloud-r-virtual-private-cloud-vpc-endpoints.png"
         },
         {
             "tag": "IBM Cloud\u00ae Block Storage for VPC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-block-storage-for-vpc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-block-storage-for-vpc.png"
         },
         {
             "tag": "IBM Cloud\u00ae Flow Logs for VPC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-flow-logs-for-vpc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-flow-logs-for-vpc.png"
         },
         {
             "tag": "IBM Cloud\u00ae Virtual Server for VPC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-virtual-server-for-vpc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-virtual-server-for-vpc.png"
         },
         {
             "tag": "IBM e-config on Cloud",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-e-config-on-cloud.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-e-config-on-cloud.png"
         },
         {
             "tag": "IBM Cognos\u00ae Analytics",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cognos-r-analytics.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cognos-r-analytics.png"
         },
         {
             "tag": "IBM Cognos\u00ae Analytics Reporting",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cognos-r-analytics-reporting.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cognos-r-analytics-reporting.png"
         },
         {
             "tag": "IBM Community Health Coach",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-community-health-coach.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-community-health-coach.png"
         },
         {
             "tag": "IBM Community Health Member",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-community-health-member.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-community-health-member.png"
         },
         {
             "tag": "IBM Control Desk",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-control-desk.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-control-desk.png"
         },
         {
             "tag": "IBM Db2\u00ae Big SQL",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-db2-r-big-sql.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-db2-r-big-sql.png"
         },
         {
             "tag": "IBM DCConnect Client",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-dcconnect-client.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-dcconnect-client.png"
         },
         {
             "tag": "IBM Data Privacy Passports",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-data-privacy-passports.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-data-privacy-passports.png"
         },
         {
             "tag": "IBM Db2\u00ae for z/OS\u00ae Data Gate",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-db2-r-for-z-os-r-data-gate.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-db2-r-for-z-os-r-data-gate.png"
         },
         {
             "tag": "IBM DevOps Analyze",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-analyze.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-analyze.png"
         },
         {
             "tag": "IBM DevOps Build",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-build.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-build.png"
         },
         {
             "tag": "IBM DevOps CI/CD Pipeline",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-ci-cd-pipeline.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-ci-cd-pipeline.png"
         },
         {
             "tag": "IBM DevOps Code",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-code.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-code.png"
         },
         {
             "tag": "IBM Db2\u00ae ZDevTools extension",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-db2-r-zdevtools-extension.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-db2-r-zdevtools-extension.png"
         },
         {
             "tag": "IBM DevOps Debug",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-debug.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-debug.png"
         },
         {
             "tag": "IBM DevOps Deploy",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-deploy.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-deploy.png"
         },
         {
             "tag": "IBM DevOps Developer for z/OS\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-developer-for-z-os-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-developer-for-z-os-r.png"
         },
         {
             "tag": "IBM DevOps Monitor",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-monitor.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-monitor.png"
         },
         {
             "tag": "IBM DevOps Plan",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-plan.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-plan.png"
         },
         {
             "tag": "IBM DevOps Provision",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-provision.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-provision.png"
         },
         {
             "tag": "IBM DevOps Release",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-release.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-release.png"
         },
         {
             "tag": "IBM DevOps Test",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-devops-test.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-devops-test.png"
         },
         {
             "tag": "IBM Wazi Analyze",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-wazi-analyze.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-wazi-analyze.png"
         },
         {
             "tag": "IBM Developer",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-developer.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-developer.png"
         },
         {
             "tag": "IBM Digital Assistant",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-digital-assistant.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-digital-assistant.png"
         },
         {
             "tag": "IBM Digital\u2013Nation Africa",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-digital-nation-africa.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-digital-nation-africa.png"
         },
         {
             "tag": "IBM Digital Services Platform for Financial Services",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-digital-services-platform-for-financial-services.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-digital-services-platform-for-financial-services.png"
         },
         {
             "tag": "IBM Download Director",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-download-director.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-download-director.png"
         },
         {
             "tag": "IBM Entitled Systems Support",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-entitled-systems-support.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-entitled-systems-support.png"
         },
         {
             "tag": "IBM Cloud\u00ae Event Notifications",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-event-notifications.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-event-notifications.png"
         },
         {
             "tag": "IBM Expert Seller with Box Platform",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-expert-seller-with-box-platform.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-expert-seller-with-box-platform.png"
         },
         {
             "tag": "IBM Exposure Notification for Enterprise",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-exposure-notification-for-enterprise.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-exposure-notification-for-enterprise.png"
         },
         {
             "tag": "Eye, generic",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/eye-generic.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/eye-generic.png"
         },
         {
             "tag": "IBM GS Risk",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-gs-risk.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-gs-risk.png"
         },
         {
             "tag": "IBM Global Financing Concierge",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-global-financing-concierge.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-global-financing-concierge.png"
         },
         {
             "tag": "IBM Health Pass Issuer",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-health-pass-issuer.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-health-pass-issuer.png"
         },
         {
             "tag": "IBM Health Pass Verifier",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-health-pass-verifier.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-health-pass-verifier.png"
         },
         {
             "tag": "IBM Health Pass Wallet",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-health-pass-wallet.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-health-pass-wallet.png"
         },
         {
             "tag": "IBM Inspection Workbench",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-inspection-workbench.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-inspection-workbench.png"
         },
         {
             "tag": "IBM Inspector Portable",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-inspector-portable.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-inspector-portable.png"
         },
         {
             "tag": "IBM Instant Checkout",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-instant-checkout.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-instant-checkout.png"
         },
         {
             "tag": "IoT administration",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/iot-administration.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/iot-administration.png"
         },
         {
             "tag": "IoT asset",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/iot-asset.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/iot-asset.png"
         },
         {
             "tag": "IoT business analytics",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/iot-business-analytics.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/iot-business-analytics.png"
         },
         {
             "tag": "IBM Watson IoT\u00ae Platform Connection Service",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-iot-r-platform-connection-service.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-iot-r-platform-connection-service.png"
         },
         {
             "tag": "IBM Watson IoT\u00ae Platform",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-iot-r-platform.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-iot-r-platform.png"
         },
         {
             "tag": "IBM Open Data Analytics for z/OS\u00ae (IzODA)",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-open-data-analytics-for-z-os-r-izoda.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-open-data-analytics-for-z-os-r-izoda.png"
         },
         {
             "tag": "LILOX",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/lilox.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/lilox.png"
         },
         {
             "tag": "IBM Launchpad",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-launchpad.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-launchpad.png"
         },
         {
             "tag": "IBM Live | IBM Events",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-live-ibm-events.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-live-ibm-events.png"
         },
         {
             "tag": "IBM Location Tracker",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-location-tracker.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-location-tracker.png"
         },
         {
             "tag": "IBM M&A Accelerator | IBM Program Work Center",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-m-a-accelerator-ibm-program-work-center.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-m-a-accelerator-ibm-program-work-center.png"
         },
         {
             "tag": "IBM Master Data Management Express",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-master-data-management-express.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-master-data-management-express.png"
         },
         {
             "tag": "IBM\u00ae MaaS360\u00ae Admin",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-maas360-r-admin.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-maas360-r-admin.png"
         },
         {
             "tag": "IBM Master Data Connect",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-master-data-connect.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-master-data-connect.png"
         },
         {
             "tag": "IBM Master Data Management",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-master-data-management.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-master-data-management.png"
         },
         {
             "tag": "IBM Maximo\u00ae Asset Audit",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-asset-audit.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-asset-audit.png"
         },
         {
             "tag": "IBM Maximo\u00ae Asset Data Manager",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-asset-data-manager.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-asset-data-manager.png"
         },
         {
             "tag": "IBM Maximo\u00ae Cycle Counts",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-cycle-counts.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-cycle-counts.png"
         },
         {
             "tag": "IBM Maximo\u00ae Inspector",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-inspector.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-inspector.png"
         },
         {
             "tag": "IBM Maximo\u00ae Issues and Returns",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-issues-and-returns.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-issues-and-returns.png"
         },
         {
             "tag": "IBM\u00ae Maximo\u00ae Mobile",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-maximo-r-mobile.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-maximo-r-mobile.png"
         },
         {
             "tag": "IBM Maximo\u00ae Service Requestor",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-service-requestor.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-service-requestor.png"
         },
         {
             "tag": "IBM Maximo\u00ae Supervisor",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-supervisor.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-supervisor.png"
         },
         {
             "tag": "IBM Maximo\u00ae Technician",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-technician.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-technician.png"
         },
         {
             "tag": "IBM Maximo\u00ae Transfers Receipts",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-transfers-receipts.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-transfers-receipts.png"
         },
         {
             "tag": "IBM\u00ae Maximo\u00ae Visual Inspection",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-maximo-r-visual-inspection.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-maximo-r-visual-inspection.png"
         },
         {
             "tag": "IBM Maximo\u00ae Voice Assistant",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-voice-assistant.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-voice-assistant.png"
         },
         {
             "tag": "IBM Maximo\u00ae Worker Insights",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-maximo-r-worker-insights.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-maximo-r-worker-insights.png"
         },
         {
             "tag": "IBM Mobile Capture",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobile-capture.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobile-capture.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Aircraft 360",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-aircraft-360.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-aircraft-360.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Ancillary Sales",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-ancillary-sales.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-ancillary-sales.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Assign Tech",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-assign-tech.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-assign-tech.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Cabin Care",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-cabin-care.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-cabin-care.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Digital Gate",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-digital-gate.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-digital-gate.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Fly Now",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-fly-now.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-fly-now.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Inspect and Turn",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-inspect-and-turn.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-inspect-and-turn.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Manage Gates",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-manage-gates.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-manage-gates.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Passenger Care",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-passenger-care.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-passenger-care.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Passenger +",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-passenger.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-passenger.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Plan Flight",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-plan-flight.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-plan-flight.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Rapid Board",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-rapid-board.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-rapid-board.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Roster",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-roster.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-roster.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Today\u2019s Train",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-todays-train.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-todays-train.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS IBM Train Tickets",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-ibm-train-tickets.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-ibm-train-tickets.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS IBM Traveler Care",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-ibm-traveler-care.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-ibm-traveler-care.png"
         },
         {
             "tag": "IBM MobileFirst\u00ae for iOS Turn Manager",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-mobilefirst-r-for-ios-turn-manager.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-mobilefirst-r-for-ios-turn-manager.png"
         },
         {
             "tag": "IBM My Clinical Diary Mobile",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-my-clinical-diary-mobile.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-my-clinical-diary-mobile.png"
         },
         {
             "tag": "IBM\u00ae Netezza\u00ae Performance Server",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-netezza-r-performance-server.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-netezza-r-performance-server.png"
         },
         {
             "tag": "IBM Notifier",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-notifier.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-notifier.png"
         },
         {
             "tag": "OneView Mobile",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/oneview-mobile.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/oneview-mobile.png"
         },
         {
             "tag": "Open DSP",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/open-dsp.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/open-dsp.png"
         },
         {
             "tag": "IBM\u00ae Partner Ecosystem Hub",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-partner-ecosystem-hub.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-partner-ecosystem-hub.png"
         },
         {
             "tag": "IBM Planning Analytics",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-planning-analytics.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-planning-analytics.png"
         },
         {
             "tag": "IBM POWER\u00ae Quick Reference",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-power-r-quick-reference.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-power-r-quick-reference.png"
         },
         {
             "tag": "IBM\u00ae Power\u00ae Systems Virtual Server Integration",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-power-r-systems-virtual-server-integration.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-power-r-systems-virtual-server-integration.png"
         },
         {
             "tag": "IBM Quantum Composer",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-quantum-composer.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-quantum-composer.png"
         },
         {
             "tag": "IBM Quantum Lab",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-quantum-lab.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-quantum-lab.png"
         },
         {
             "tag": "IBM\u00ae RPA",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-rpa.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-rpa.png"
         },
         {
             "tag": "IBM\u00ae RPA Control Center",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-rpa-control-center.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-rpa-control-center.png"
         },
         {
             "tag": "IBM\u00ae RPA Launcher",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-rpa-launcher.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-rpa-launcher.png"
         },
         {
             "tag": "IBM\u00ae RPA Studio",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-rpa-studio.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-rpa-studio.png"
         },
         {
             "tag": "IBM\u00ae RPA Vault",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-rpa-vault.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-rpa-vault.png"
         },
         {
             "tag": "IBM Rapid Financing\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-rapid-financing-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-rapid-financing-r.png"
         },
         {
             "tag": "IBM Rational\u00ae Developer for i",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-rational-r-developer-for-i.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-rational-r-developer-for-i.png"
         },
         {
             "tag": "IBM Release Builder Kit (RBK)",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-release-builder-kit-rbk.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-release-builder-kit-rbk.png"
         },
         {
             "tag": "IBM SPSS\u00ae Modeler Subscription",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spss-r-modeler-subscription.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spss-r-modeler-subscription.png"
         },
         {
             "tag": "IBM Safer Payments",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-safer-payments.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-safer-payments.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "Unassigned Security",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned-security.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned-security.png"
         },
         {
             "tag": "IBM Security\u2122 Access Request",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-securitytm-access-request.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-securitytm-access-request.png"
         },
         {
             "tag": "IBM Security\u2122 cases",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-securitytm-cases.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-securitytm-cases.png"
         },
         {
             "tag": "IBM Security\u2122 Data Explorer",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-securitytm-data-explorer.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-securitytm-data-explorer.png"
         },
         {
             "tag": "IBM Security\u2122 QRadar\u00ae Analyst Workflow",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-securitytm-qradar-r-analyst-workflow.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-securitytm-qradar-r-analyst-workflow.png"
         },
         {
             "tag": "IBM\u00ae QRadar\u00ae Use Case Manager",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-qradar-r-use-case-manager.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-qradar-r-use-case-manager.png"
         },
         {
             "tag": "IBM\u00ae QRadar\u00ae User Behavior Analytics",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-qradar-r-user-behavior-analytics.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-qradar-r-user-behavior-analytics.png"
         },
         {
             "tag": "IBM Security\u2122 Services",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-securitytm-services.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-securitytm-services.png"
         },
         {
             "tag": "IBM Threat Intelligence Insights",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-threat-intelligence-insights.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-threat-intelligence-insights.png"
         },
         {
             "tag": "IBM Security\u2122 Verify",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-securitytm-verify.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-securitytm-verify.png"
         },
         {
             "tag": "IBM Research\u00ae Self Guidance Tool",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-research-r-self-guidance-tool.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-research-r-self-guidance-tool.png"
         },
         {
             "tag": "IBM Site Access",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-site-access.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-site-access.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Archive",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-archive.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-archive.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Computing",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-computing.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-computing.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Computing Suite for High Performance Analytics",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-computing-suite-for-high-performance-analytics.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-computing-suite-for-high-performance-analytics.png"
         },
         {
             "tag": "IBM Spectrum Conductor\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-conductor-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-conductor-r.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Control",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-control.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-control.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Copy Data Management",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-copy-data-management.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-copy-data-management.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Discover",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-discover.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-discover.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Fusion",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-fusion.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-fusion.png"
         },
         {
             "tag": "IBM Spectrum\u00ae LSF",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-lsf.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-lsf.png"
         },
         {
             "tag": "IBM Spectrum\u00ae MPI",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-mpi.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-mpi.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Protect",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-protect.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-protect.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Protect Plus",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-protect-plus.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-protect-plus.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Protect Tools for Administrators",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-protect-tools-for-administrators.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-protect-tools-for-administrators.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Scale",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-scale.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-scale.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Storage",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-storage.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-storage.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Storage Insights",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-storage-insights.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-storage-insights.png"
         },
         {
             "tag": "IBM Spectrum Symphony\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-symphony-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-symphony-r.png"
         },
         {
             "tag": "IBM Spectrum\u00ae Virtualize",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spectrum-r-virtualize.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spectrum-r-virtualize.png"
         },
         {
             "tag": "IBM Stakeholder Collaborator",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-stakeholder-collaborator.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-stakeholder-collaborator.png"
         },
         {
             "tag": "IBM Stakeholder Manager",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-stakeholder-manager.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-stakeholder-manager.png"
         },
         {
             "tag": "IBM Sterling\u2122 Store Engagement",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-sterlingtm-store-engagement.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-sterlingtm-store-engagement.png"
         },
         {
             "tag": "IBM Sterling\u2122 Supply Chain",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-sterlingtm-supply-chain.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-sterlingtm-supply-chain.png"
         },
         {
             "tag": "IBM Study Advance",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-study-advance.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-study-advance.png"
         },
         {
             "tag": "IBM Support Search with Watson\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-support-search-with-watson-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-support-search-with-watson-r.png"
         },
         {
             "tag": "TLConnect",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/tlconnect.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/tlconnect.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Assistant",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-assistant.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-assistant.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Configure",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-configure.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-configure.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Facility Condition",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-facility-condition.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-facility-condition.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Facility Sustainability",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-facility-sustainability.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-facility-sustainability.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Indoor Maps",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-indoor-maps.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-indoor-maps.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Insights",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-insights.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-insights.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Lease Accounting",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-lease-accounting.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-lease-accounting.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Lease Administration",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-lease-administration.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-lease-administration.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Maintenance",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-maintenance.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-maintenance.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Metrics",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-metrics.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-metrics.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Projects",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-projects.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-projects.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Projects Hub",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-projects-hub.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-projects-hub.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Reporting",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-reporting.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-reporting.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Reserve",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-reserve.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-reserve.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Services",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-services.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-services.png"
         },
         {
             "tag": "IBM\u00ae TRIRIGA\u00ae Transactions",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-tririga-r-transactions.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-tririga-r-transactions.png"
         },
         {
             "tag": "IBM Task Mining Agent",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-task-mining-agent.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-task-mining-agent.png"
         },
         {
             "tag": "IBM Systems TechU agenda",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-systems-techu-agenda.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-systems-techu-agenda.png"
         },
         {
             "tag": "IBM TouchToken",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-touchtoken.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-touchtoken.png"
         },
         {
             "tag": "IBM New Visual Horizon",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-new-visual-horizon.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-new-visual-horizon.png"
         },
         {
             "tag": "IBM World Community Grid",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-world-community-grid.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-world-community-grid.png"
         },
         {
             "tag": "IBM Watson\u00ae AI Ops",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-ai-ops.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-ai-ops.png"
         },
         {
             "tag": "IBM Watson\u00ae Recruitment Adverse Impact Analysis",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-recruitment-adverse-impact-analysis.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-recruitment-adverse-impact-analysis.png"
         },
         {
             "tag": "IBM Watson\u00ae Assistant",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-assistant.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-assistant.png"
         },
         {
             "tag": "IBM Watson\u00ae BrassRing\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-brassring-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-brassring-r.png"
         },
         {
             "tag": "IBM Watson\u00ae Candidate Assistant",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-candidate-assistant.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-candidate-assistant.png"
         },
         {
             "tag": "IBM Watson\u00ae Career Coach",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-career-coach.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-career-coach.png"
         },
         {
             "tag": "IBM Watson\u00ae Compare and Comply",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-compare-and-comply.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-compare-and-comply.png"
         },
         {
             "tag": "IBM Db2\u00ae Data Management Console",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-db2-r-data-management-console.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-db2-r-data-management-console.png"
         },
         {
             "tag": "IBM Watson\u00ae Discovery",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-discovery.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-discovery.png"
         },
         {
             "tag": "IBM Watson\u00ae Knowledge Catalog",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-knowledge-catalog.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-knowledge-catalog.png"
         },
         {
             "tag": "IBM Watson\u00ae Knowledge Studio",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-knowledge-studio.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-knowledge-studio.png"
         },
         {
             "tag": "IBM Watson\u00ae Language Translator",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-language-translator.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-language-translator.png"
         },
         {
             "tag": "IBM Kenexa\u00ae Lead Manager",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-kenexa-r-lead-manager.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-kenexa-r-lead-manager.png"
         },
         {
             "tag": "IBM Watson\u00ae Machine Learning",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-machine-learning.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-machine-learning.png"
         },
         {
             "tag": "IBM Watson\u00ae Natural Language Classifier Service",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-natural-language-classifier-service.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-natural-language-classifier-service.png"
         },
         {
             "tag": "IBM Watson\u00ae Natural Language Understanding Service",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-natural-language-understanding-service.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-natural-language-understanding-service.png"
         },
         {
             "tag": "IBM Kenexa\u00ae Onboard",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-kenexa-r-onboard.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-kenexa-r-onboard.png"
         },
         {
             "tag": "IBM Watson\u00ae OpenScale\u2122",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-openscaletm.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-openscaletm.png"
         },
         {
             "tag": "IBM Watson\u00ae Personality Insights",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-personality-insights.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-personality-insights.png"
         },
         {
             "tag": "IBM Watson\u00ae Recruitment",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-recruitment.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-recruitment.png"
         },
         {
             "tag": "IBM Return-to-Workplace Advisor",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-return-to-workplace-advisor.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-return-to-workplace-advisor.png"
         },
         {
             "tag": "IBM Watson\u00ae Speech to Text",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-speech-to-text.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-speech-to-text.png"
         },
         {
             "tag": "IBM Watson\u00ae Studio",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-studio.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-studio.png"
         },
         {
             "tag": "IBM Watson\u00ae Talent",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-talent.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-talent.png"
         },
         {
             "tag": "IBM Watson\u00ae Recruitment API",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-recruitment-api.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-recruitment-api.png"
         },
         {
             "tag": "IBM Watson\u00ae Talent Assessment",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-talent-assessment.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-talent-assessment.png"
         },
         {
             "tag": "IBM Watson\u00ae Talent Frameworks",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-talent-frameworks.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-talent-frameworks.png"
         },
         {
             "tag": "IBM Watson\u00ae Talent Match API",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-talent-match-api.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-talent-match-api.png"
         },
         {
             "tag": "IBM Watson\u00ae Talent Suite",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-talent-suite.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-talent-suite.png"
         },
         {
             "tag": "IBM Watson\u00ae Text to Speech",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-text-to-speech.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-text-to-speech.png"
         },
         {
             "tag": "IBM Watson\u00ae Tone Analyzer Service",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-tone-analyzer-service.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-tone-analyzer-service.png"
         },
         {
             "tag": "IBM Watson\u00ae Visual Recognition",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-visual-recognition.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-visual-recognition.png"
         },
         {
             "tag": "IBM Watson\u00ae Workbench",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-workbench.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-workbench.png"
         },
         {
             "tag": "Weather Company Max Cloud Prism Pro",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/weather-company-max-cloud-prism-pro.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/weather-company-max-cloud-prism-pro.png"
         },
         {
             "tag": "IBM Your Learning Boost",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-your-learning-boost.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-your-learning-boost.png"
         },
         {
             "tag": "IBM YourProcure",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-yourprocure.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-yourprocure.png"
         },
         {
             "tag": "IBM Digital Core",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-digital-core.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-digital-core.png"
         },
         {
             "tag": "IBM HMC Mobile",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-hmc-mobile.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-hmc-mobile.png"
         },
         {
             "tag": "IBM ePass mobile",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-epass-mobile.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-epass-mobile.png"
         },
         {
             "tag": "IBM ePricer BP",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-epricer-bp.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-epricer-bp.png"
         },
         {
             "tag": "IBM\u00ae z/OSMF CFRM Policy Editor",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-z-osmf-cfrm-policy-editor.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-z-osmf-cfrm-policy-editor.png"
         },
         {
             "tag": "IBM\u00ae z/OSMF Software Update",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-z-osmf-software-update.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-z-osmf-software-update.png"
         },
         {
             "tag": "IBM\u00ae z/OS\u00ae Management Services Catalog",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-r-z-os-r-management-services-catalog.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-r-z-os-r-management-services-catalog.png"
         },
         {
             "tag": "Unassigned0",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_0.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_0.png"
         },
         {
             "tag": "Unassigned1",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_1.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_1.png"
         },
         {
             "tag": "Unassigned2",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_2.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_2.png"
         },
         {
             "tag": "Unassigned3",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_3.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_3.png"
         },
         {
             "tag": "Unassigned4",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_4.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_4.png"
         },
         {
             "tag": "Unassigned5",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_5.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_5.png"
         },
         {
             "tag": "Unassigned6",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_6.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_6.png"
         },
         {
             "tag": "Unassigned7",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_7.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_7.png"
         },
         {
             "tag": "Unassigned8",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_8.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_8.png"
         },
         {
             "tag": "Unassigned9",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_9.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_9.png"
         },
         {
             "tag": "Unassigned10",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_10.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_10.png"
         },
         {
             "tag": "Unassigned11",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_11.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_11.png"
         },
         {
             "tag": "Unassigned12",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_12.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_12.png"
         },
         {
             "tag": "Unassigned13",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_13.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_13.png"
         },
         {
             "tag": "Unassigned14",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_14.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_14.png"
         },
         {
             "tag": "Unassigned15",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_15.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_15.png"
         },
         {
             "tag": "Unassigned16",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_16.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_16.png"
         },
         {
             "tag": "Unassigned17",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_17.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_17.png"
         },
         {
             "tag": "Unassigned18",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_18.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_18.png"
         },
         {
             "tag": "Unassigned19",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_19.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_19.png"
         },
         {
             "tag": "Unassigned20",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_20.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_20.png"
         },
         {
             "tag": "Unassigned21",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_21.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_21.png"
         },
         {
             "tag": "Unassigned22",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_22.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_22.png"
         },
         {
             "tag": "Unassigned23",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_23.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_23.png"
         },
         {
             "tag": "Unassigned24",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_24.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_24.png"
         },
         {
             "tag": "Unassigned25",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_25.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_25.png"
         },
         {
             "tag": "Unassigned26",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_26.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_26.png"
         },
         {
             "tag": "Unassigned27",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_27.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_27.png"
         },
         {
             "tag": "Unassigned28",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_28.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_28.png"
         },
         {
             "tag": "Unassigned29",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_29.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_29.png"
         },
         {
             "tag": "Unassigned30",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_30.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_30.png"
         },
         {
             "tag": "Unassigned31",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_31.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_31.png"
         },
         {
             "tag": "Unassigned32",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_32.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_32.png"
         },
         {
             "tag": "Unassigned33",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_33.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_33.png"
         },
         {
             "tag": "Unassigned34",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_34.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_34.png"
         },
         {
             "tag": "Unassigned35",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_35.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_35.png"
         },
         {
             "tag": "Unassigned36",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_36.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_36.png"
         },
         {
             "tag": "Unassigned37",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_37.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_37.png"
         },
         {
             "tag": "Unassigned38",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_38.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_38.png"
         },
         {
             "tag": "Unassigned39",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_39.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_39.png"
         },
         {
             "tag": "Unassigned40",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_40.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_40.png"
         },
         {
             "tag": "Unassigned41",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_41.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_41.png"
         },
         {
             "tag": "Unassigned42",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_42.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_42.png"
         },
         {
             "tag": "Unassigned43",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_43.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_43.png"
         },
         {
             "tag": "Unassigned44",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_44.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_44.png"
         },
         {
             "tag": "Unassigned45",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_45.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_45.png"
         },
         {
             "tag": "Unassigned46",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_46.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_46.png"
         },
         {
             "tag": "Unassigned47",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_47.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_47.png"
         },
         {
             "tag": "Unassigned48",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_48.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_48.png"
         },
         {
             "tag": "Unassigned49",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_49.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_49.png"
         },
         {
             "tag": "Unassigned50",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_50.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_50.png"
         },
         {
             "tag": "Unassigned51",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_51.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_51.png"
         },
         {
             "tag": "Unassigned52",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_52.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_52.png"
         },
         {
             "tag": "Unassigned53",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_53.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_53.png"
         },
         {
             "tag": "Unassigned54",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_54.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_54.png"
         },
         {
             "tag": "Unassigned55",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_55.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_55.png"
         },
         {
             "tag": "Unassigned56",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_56.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_56.png"
         },
         {
             "tag": "Unassigned57",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_57.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_57.png"
         },
         {
             "tag": "Unassigned58",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_58.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_58.png"
         },
         {
             "tag": "Unassigned59",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_59.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_59.png"
         },
         {
             "tag": "Unassigned60",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_60.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_60.png"
         },
         {
             "tag": "Unassigned61",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_61.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_61.png"
         },
         {
             "tag": "Unassigned62",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_62.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_62.png"
         },
         {
             "tag": "Unassigned63",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_63.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_63.png"
         },
         {
             "tag": "Unassigned64",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_64.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_64.png"
         },
         {
             "tag": "Unassigned65",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_65.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_65.png"
         },
         {
             "tag": "Unassigned66",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_66.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_66.png"
         },
         {
             "tag": "Unassigned67",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_67.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_67.png"
         },
         {
             "tag": "Unassigned68",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_68.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_68.png"
         },
         {
             "tag": "Unassigned69",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_69.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_69.png"
         },
         {
             "tag": "Unassigned70",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_70.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_70.png"
         },
         {
             "tag": "Unassigned71",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_71.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_71.png"
         },
         {
             "tag": "Unassigned72",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_72.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_72.png"
         },
         {
             "tag": "Unassigned73",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_73.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_73.png"
         },
         {
             "tag": "Unassigned74",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_74.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_74.png"
         },
         {
             "tag": "Unassigned75",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_75.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_75.png"
         },
         {
             "tag": "Unassigned76",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_76.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_76.png"
         },
         {
             "tag": "Unassigned77",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_77.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_77.png"
         },
         {
             "tag": "Unassigned78",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_78.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_78.png"
         },
         {
             "tag": "Unassigned79",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_79.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_79.png"
         },
         {
             "tag": "Unassigned80",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_80.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_80.png"
         },
         {
             "tag": "IBM API Connect\u00ae Test and Monitor",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-api-connect-r-test-and-monitor.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-api-connect-r-test-and-monitor.png"
         },
         {
             "tag": "Bee, generic",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/bee-generic.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/bee-generic.png"
         },
         {
             "tag": "IBM Client Vantage",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-client-vantage.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-client-vantage.png"
         },
         {
             "tag": "IBM Cloud\u00ae App Service",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-app-service.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-app-service.png"
         },
         {
             "tag": "IBM Cloud Pak\u00ae Event Endpoint Management",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-pak-r-event-endpoint-management.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-pak-r-event-endpoint-management.png"
         },
         {
             "tag": "IBM Cognitive Enterprise Data Platform",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cognitive-enterprise-data-platform.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cognitive-enterprise-data-platform.png"
         },
         {
             "tag": "IBM Cognos\u00ae Analytics for Mobile",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cognos-r-analytics-for-mobile.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cognos-r-analytics-for-mobile.png"
         },
         {
             "tag": "IBM Digital Health Pass",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-digital-health-pass.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-digital-health-pass.png"
         },
         {
             "tag": "IBM Digital Health Tester",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-digital-health-tester.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-digital-health-tester.png"
         },
         {
             "tag": "IBM Digital Health Verifier",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-digital-health-verifier.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-digital-health-verifier.png"
         },
         {
             "tag": "IBM Enterprise Performance Management",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-enterprise-performance-management.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-enterprise-performance-management.png"
         },
         {
             "tag": "IBM Enterprise Video Streaming",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-enterprise-video-streaming.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-enterprise-video-streaming.png"
         },
         {
             "tag": "IBM Explorer for z/OS\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-explorer-for-z-os-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-explorer-for-z-os-r.png"
         },
         {
             "tag": "Eye, generic",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/eye-generic.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/eye-generic.png"
         },
         {
             "tag": "Hello Quantum",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/hello-quantum.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/hello-quantum.png"
         },
         {
             "tag": "Hybrid DevOps and management",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/hybrid-devops-and-management.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/hybrid-devops-and-management.png"
         },
         {
             "tag": "IBM Institute for Business Value",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-institute-for-business-value.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-institute-for-business-value.png"
         },
         {
             "tag": "IBM Immersive Data",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-immersive-data.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-immersive-data.png"
         },
         {
             "tag": "IBM Information Management System",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-information-management-system.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-information-management-system.png"
         },
         {
             "tag": "IBM Micromedex\u00ae Drug Interactions",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-micromedex-r-drug-interactions.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-micromedex-r-drug-interactions.png"
         },
         {
             "tag": "IBM Micromedex\u00ae Drug Ref",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-micromedex-r-drug-ref.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-micromedex-r-drug-ref.png"
         },
         {
             "tag": "IBM Micromedex\u00ae IV Comp",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-micromedex-r-iv-comp.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-micromedex-r-iv-comp.png"
         },
         {
             "tag": "IBM Micromedex\u00ae NeoFax\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-micromedex-r-neofax-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-micromedex-r-neofax-r.png"
         },
         {
             "tag": "IBM Micromedex\u00ae Pediatrics",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-micromedex-r-pediatrics.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-micromedex-r-pediatrics.png"
         },
         {
             "tag": "IBM SPSS\u00ae Statistics",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-spss-r-statistics.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-spss-r-statistics.png"
         },
         {
             "tag": "IBM Video Streaming",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-video-streaming.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-video-streaming.png"
         },
         {
             "tag": "IBM Watson\u00ae Knowledge Catalog InstaScan",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-watson-r-knowledge-catalog-instascan.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-watson-r-knowledge-catalog-instascan.png"
         },
         {
             "tag": "IBM i Access Client Solutions",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-i-access-client-solutions.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-i-access-client-solutions.png"
         },
         {
             "tag": "Unassigned81",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_81.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_81.png"
         },
         {
             "tag": "Unassigned82",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_82.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_82.png"
         },
         {
             "tag": "Unassigned83",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_83.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_83.png"
         },
         {
             "tag": "Unassigned84",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_84.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_84.png"
         },
         {
             "tag": "Unassigned85",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_85.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_85.png"
         },
         {
             "tag": "Unassigned86",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_86.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_86.png"
         },
         {
             "tag": "Unassigned87",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_87.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_87.png"
         },
         {
             "tag": "Unassigned88",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_88.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_88.png"
         },
         {
             "tag": "Unassigned89",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_89.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_89.png"
         },
         {
             "tag": "Unassigned90",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_90.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_90.png"
         },
         {
             "tag": "Unassigned91",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_91.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_91.png"
         },
         {
             "tag": "Unassigned92",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_92.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_92.png"
         },
         {
             "tag": "Unassigned93",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_93.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_93.png"
         },
         {
             "tag": "Unassigned94",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_94.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_94.png"
         },
         {
             "tag": "Unassigned95",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_95.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_95.png"
         },
         {
             "tag": "Unassigned96",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_96.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_96.png"
         },
         {
             "tag": "Unassigned97",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_97.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_97.png"
         },
         {
             "tag": "Unassigned98",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_98.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_98.png"
         },
         {
             "tag": "Unassigned99",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_99.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_99.png"
         },
         {
             "tag": "Unassigned100",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_100.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_100.png"
         },
         {
             "tag": "Unassigned101",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_101.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_101.png"
         },
         {
             "tag": "Unassigned102",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_102.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_102.png"
         },
         {
             "tag": "Unassigned103",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_103.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_103.png"
         },
         {
             "tag": "Unassigned104",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_104.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_104.png"
         },
         {
             "tag": "Unassigned105",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_105.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_105.png"
         },
         {
             "tag": "Unassigned106",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_106.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_106.png"
         },
         {
             "tag": "Unassigned107",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_107.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_107.png"
         },
         {
             "tag": "Unassigned108",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_108.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_108.png"
         },
         {
             "tag": "Unassigned109",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_109.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_109.png"
         },
         {
             "tag": "Unassigned110",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_110.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_110.png"
         },
         {
             "tag": "Unassigned111",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_111.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_111.png"
         },
         {
             "tag": "Unassigned112",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_112.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_112.png"
         },
         {
             "tag": "Unassigned113",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_113.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_113.png"
         },
         {
             "tag": "Unassigned114",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_114.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_114.png"
         },
         {
             "tag": "Unassigned115",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_115.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_115.png"
         },
         {
             "tag": "Unassigned116",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_116.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_116.png"
         },
         {
             "tag": "Unassigned117",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_117.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_117.png"
         },
         {
             "tag": "Unassigned118",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_118.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_118.png"
         },
         {
             "tag": "Unassigned119",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_119.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_119.png"
         },
         {
             "tag": "Unassigned120",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_120.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_120.png"
         },
         {
             "tag": "Unassigned121",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_121.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_121.png"
         },
         {
             "tag": "Unassigned122",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_122.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_122.png"
         },
         {
             "tag": "AIX\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/aix-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/aix-r.png"
         },
         {
             "tag": "IBM Cloud\u00ae Databases for DataStax",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-databases-for-datastax.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-databases-for-datastax.png"
         },
         {
             "tag": "IBM Cloud\u00ae Databases for etcd",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-databases-for-etcd.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-databases-for-etcd.png"
         },
         {
             "tag": "IBM Cloud\u00ae Databases for Elasticsearch",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-databases-for-elasticsearch.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-databases-for-elasticsearch.png"
         },
         {
             "tag": "IBM Cloud\u00ae Databases for EnterpriseDB",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-databases-for-enterprisedb.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-databases-for-enterprisedb.png"
         },
         {
             "tag": "IBM Cloud\u00ae Databases for MongoDB",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-databases-for-mongodb.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-databases-for-mongodb.png"
         },
         {
             "tag": "IBM Cloud\u00ae Databases for PostgreSQL",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-databases-for-postgresql.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-databases-for-postgresql.png"
         },
         {
             "tag": "IBM Cloud\u00ae Databases for Rabbit",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-databases-for-rabbit.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-databases-for-rabbit.png"
         },
         {
             "tag": "IBM Cloud\u00ae Databases for Redis",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-cloud-r-databases-for-redis.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-cloud-r-databases-for-redis.png"
         },
         {
             "tag": "DBG",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/dbg.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/dbg.png"
         },
         {
             "tag": "IBM Db2\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-db2-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-db2-r.png"
         },
         {
             "tag": "IBMer News",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibmer-news.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibmer-news.png"
         },
         {
             "tag": "IBM i",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-i.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-i.png"
         },
         {
             "tag": "Linux\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/linux-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/linux-r.png"
         },
         {
             "tag": "MySQL",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/mysql.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/mysql.png"
         },
         {
             "tag": "WSC",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/wsc.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/wsc.png"
         },
         {
             "tag": "IBM Z\u00ae",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/ibm-z-r.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/ibm-z-r.png"
         },
         {
             "tag": "Unassigned123",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_123.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_123.png"
         },
         {
             "tag": "Unassigned124",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_124.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_124.png"
         },
         {
             "tag": "Unassigned125",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_125.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_125.png"
         },
         {
             "tag": "Unassigned126",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_126.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_126.png"
         },
         {
             "tag": "Unassigned127",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_127.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_127.png"
         },
         {
             "tag": "Unassigned128",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_128.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_128.png"
         },
         {
             "tag": "Unassigned129",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_129.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_129.png"
         },
         {
             "tag": "Unassigned130",
             "stroke": "#4285f4",
             "color": "#4285f4",
-            "icon": "https://github.com/XReyRobert/strctrzr/blob/main/png-dark/unassigned_130.png?raw=true"
+            "icon": "https://raw.githubusercontent.com/XReyRobert/strctrzr/refs/heads/main/png-dark/unassigned_130.png"
         }
     ]
 }
